@@ -2,7 +2,7 @@
 Bootstrap kurulum aşaması npm ve node.js ile bu adımlar uygulandı. <br>
 
 1. ```npm install bootstrap@5.3.0```
-2. Kurulumu tamamlamak için terminal ekranına `npm run bootstrap yazılacak`
+2. Kurulumu tamamlamak için terminal ekranına `npm run bootstrap` yazılacak
 3. Kurulum tamamlandı.
 4. Tailwind kıyasla daha az uğraştırıcı kurulum.
 
